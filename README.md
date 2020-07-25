@@ -2,7 +2,7 @@
 
 Product List for when you go shopping. You can enter the prices of the products and you will have an estimate of the amount you will spend on your purchase.
 
-![](public/products-list.png)
+![](public/product-list.gif)
 
 ## Getting Started
 
